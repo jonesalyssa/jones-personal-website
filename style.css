@@ -118,3 +118,11 @@ ul {
       text-align: center;
       padding: 2%;
     }
+
+    @media (max-width: 768px) {
+      .navdiv {
+        background: rgb(223, 195, 213);
+        margin: 0 auto !important;
+        padding:  !important;
+      }
+    }
