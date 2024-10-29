@@ -99,4 +99,22 @@ ul {
       height: 150px;
     }
   
-  
+    .contact-form-line1 {
+
+      height: 30%;
+      text-align: center;
+      margin: 2%;
+      justify-content: space-around;
+    }
+
+    .contact-form-line2 {
+
+      height: 30%;
+      text-align: center;
+      justify-content: space-around;
+    }
+
+    .button-contact {
+      text-align: center;
+      padding: 2%;
+    }
